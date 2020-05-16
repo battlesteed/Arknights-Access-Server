@@ -1,0 +1,5 @@
+Type:SSL
+
+Link:
+
+https://ak-fs.hypergryph.com:443/assetbundle/official/Android/version?sign=1589631679%20256455881%20480777

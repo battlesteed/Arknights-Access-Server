@@ -1,0 +1,13 @@
+Type:HTTP
+
+Link:
+
+http://ngc.aliyuncs.com:80/data/r?a=i17.F0v9R2R0vF.URudy2F8e&m=28&o=5k5WDDtnn&k=zDLGFEOt8c&p=r.Gkz&u=nzn.Q.W5kGKk#nDQQQQQQQWGn5tG&t=1&q=1589631737&d=0yd2wyU15WD.Wku7VNlknQ.A8d1R7UNQWUe.i17@WQW.kt.WG5.WQk@Uu.2e.N1iUNF1e8.F0v9R2R0vF.i17@Gnnk@W@WQDkz&e=tHKU+i9nGGG5n5zKAQW5Ai9n69tzt699A9tHQ+kQn6inHtnQkQziK9GQUHktWkKi9W9AH5&s=25cc75683013b1d682530ab1ebcf3f12
+
+Requset:
+
+zz
+
+Return:
+
+Set-Cookie: __secdyid=5f1abadfc096b284ce4d71d96ff8661172674176e30826a9021589631737;Expires=Sun, 16 May 2021 XX:XX:XX GMT; HttpOnly

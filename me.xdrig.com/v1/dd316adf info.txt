@@ -1,0 +1,9 @@
+Type:SSL
+
+Link:
+
+https://me.xdrig.com:443/v1/dd316adf
+
+Return:
+
+ok

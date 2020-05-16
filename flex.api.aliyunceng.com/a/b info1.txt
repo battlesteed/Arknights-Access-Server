@@ -1,0 +1,25 @@
+Type:HTTP
+
+Link:
+
+http://flex.api.aliyunceng.com:80/a/b?a=29R8hPC7tL&b=Z4kxqnxfqNKtihJkX4AkM9ddsnkIMhZcGNgliNpPin_LMv_tSPxbi9l0&c=JnLdJVMdiOpbJnk+izBlGNtxSO5PgzexSO1mJ9pdXbHlBvM0&d=1&e=1&f=x
+//I guess this is the encrypted password,and the private key may be in the request.
+
+Request:
+
+GET /a/b?a=29R8hPC7tL&b=Z4kxqnxfqNKtihJkX4AkM9ddsnkIMhZcGNgliNpPin_LMv_tSPxbi9l0&c=JnLdJVMdiOpbJnk+izBlGNtxSO5PgzexSO1mJ9pdXbHlBvM0&d=1&e=1&f=x HTTP/1.1
+Host: flex.api.aliyunceng.com
+Accept: */*
+s: TSrw3Wjqtkud8tnddolZIB-CEXR0
+t: 2487291924
+v: dL896zv440
+sv: 8
+dv: 832
+m: QDQ.j.XKYUCY#QGjjjjjjjXUQK0U
+tk: 7140ff234c9693f4f2f3a53b07a804b9
+rk: 31787
+p: A
+
+Return:
+
+/Ib8FE2C53Pebi9FKDb+PMvRLDN7hgPDaDfB7J9BKSzBNsncwGjeHJVFtDbruDNHwXKLwMCRkGbMzGbQABwAkMvMaMCRkMbHwV4cwJ4DaDbQxMCHhBbH7XCoYM4DLDfMwXwD7BNJPJbZcMbRcMvDlgCRPMvRlgCRcMv_NXnJPBbFNMbRcMvRcMvRcMvRcMv_bJCyzXCD7MbFKMhRPMvJ7gneNgO_KJCR7MvJhgCSxgCy7BCRlMCebBhD9MvRcMvRcMvRcMvRcMvRcMvRcMvRcMvRcMvRcMvRhMCetBh1xBhQhgbJ9JCHlgNgtMb19JnD9M9yPJb19XnyhJbRkMvRwGjePDb+k-Vl0

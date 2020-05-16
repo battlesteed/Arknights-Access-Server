@@ -1,0 +1,45 @@
+Type:HTTP
+
+Link:
+
+http://log.reyun.com:80/receive/tkio/loggedin
+
+Request:
+
+{
+	"appid":"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+	"who":"unknown",
+	"what":"startup",
+	"when":"2020-XX-XX XX:XX:XX",
+	"context":{
+		"_app_version":"1.0.01",
+		"_campaignid":"404",
+		"_ryosversion":"X.X.X",
+		"_rydevicetype":"XXX",
+		"_carrier":"unknown",
+		"_pkgname":"com.hypergryph.arknights",
+		"_lib_version":"1.0.0",
+		"_model":"XXX",
+		"_istablet":"table",
+		"_ryos":"Android",
+		"_imei":"XXXXXXXXXXXXXXX",
+		"_lib":"Android",
+		"_tz":" 8",
+		"_manufacturer":"XXXX",
+		"_create_timestamp":Unix timestamp(ms),
+		"_resolution":"900*1600",
+		"_androidid":"XXXXXXXXXXXXXXXX",
+		"_network_type":"WIFI",
+		"_deviceid":"000000000000000",
+		"_adid":"unknown",
+		"_device_gps":"unknown",
+		"_mac":"XX:XX:XX:XX:XX:XX",
+		"_timestamp":Unix timestamp(ms) //above _create_timestamp
+	}
+}
+
+Return:
+
+{
+	"status":0,
+}

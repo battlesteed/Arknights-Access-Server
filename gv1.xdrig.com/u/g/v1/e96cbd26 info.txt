@@ -1,0 +1,9 @@
+Type:SSL
+
+Link:
+
+https://gv1.xdrig.com:443/u/g/v1/e96cbd26
+
+Return:
+
+ok

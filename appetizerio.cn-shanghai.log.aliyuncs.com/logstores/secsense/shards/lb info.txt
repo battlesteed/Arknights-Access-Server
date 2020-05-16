@@ -1,0 +1,9 @@
+Type:SSL
+
+Link:
+
+https://appetizerio.cn-shanghai.log.aliyuncs.com:443/logstores/secsense/shards/lb\
+
+Return:
+
+x-log-requestid: 5EBFDAF09A1F55BD6A2D558B

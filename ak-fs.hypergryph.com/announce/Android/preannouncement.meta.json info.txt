@@ -1,0 +1,14 @@
+Type:SSL
+
+Link:
+
+https://ak-fs.hypergryph.com:443/announce/Android/preannouncement.meta.json?sign=1589631713%20256455881%20189952
+
+Return:
+
+{
+	"actived":true,
+	"preAnnounceId":231,
+	"preAnnounceType":2,
+	"preAnnounceUrl":"https://ak-fs.hypergryph.com/announce/Android/preannouncement/231.html"
+}

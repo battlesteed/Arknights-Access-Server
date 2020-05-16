@@ -1,0 +1,12 @@
+Type:HTTP
+
+Link:
+
+http://log.reyun.com:80/receive/gettime
+
+Return:
+
+{
+	"ts":Unix timestamp(ms),
+	"status":0
+}
