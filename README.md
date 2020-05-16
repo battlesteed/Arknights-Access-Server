@@ -1,5 +1,5 @@
 # Arknights-Access-Sever
-Servers accessed byArknights
+Servers accessed byArknights.
 To learn more,each file has a introduction.
 # Access Sever Order
 ```
@@ -38,3 +38,4 @@ http://ngc.aliyuncs.com:80/data/r 14
 http://ngc.aliyuncs.com:80/data/r 15
 101.37.186.103
 ```
+the first parameters of the sign is the time with Unix timestamp (ms).
