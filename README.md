@@ -1,7 +1,7 @@
-# Arknights-Access-Sever
+# Arknights-Access-Server
 Servers accessed byArknights.
 To learn more,each file has a introduction.
-# Access Sever Order
+# Access Server Order
 ```
 http://log.reyun.com:80/receive/gettime
 https://ak-fs.hypergryph.com:443/assetbundle/official/network_config?sign=1589631679%20256455881%20983273
